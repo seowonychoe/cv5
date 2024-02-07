@@ -1,0 +1,32 @@
+body {
+    /* background-color: black; */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first_elbum_img {
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 20px;
+}
+
+.second_elbum_img {
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 20px;
+}
+
+.white_text {
+    color: white;
+}
+
+.identation {
+    margin: 0 auto 0 auto;
+    /* position: relative;
+    right: 100px; */
+}
+
+h2 {
+    margin-left: 0px;
+    margin-bottom: 5px;
+}

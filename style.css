@@ -1,0 +1,151 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    /* width:1800px; */
+    height:500px;
+    margin: 0 auto 0 auto;
+    /* background-color:black; */
+    position: relative;
+    bottom: 290px;
+    /* right: 50%;
+    bottom: 150px; */ */
+}
+
+.group_main_img {
+    /* height:500px; */
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 100px;
+    /* position: absolute;
+    right: 50%;
+    bottom: 300px; */
+}
+
+.who {
+    background-color: black;
+    height: 50px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    bottom: 350px;
+}
+
+.elbum {
+    background-color: black;
+    height: 50px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 150px;
+    color: white;
+}
+
+.performance {
+    background-color: black;
+    height: 50px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 485px;
+}
+
+#text-box {
+    background-color: red;
+}
+
+.category {
+    color: white;
+}
+
+.identation {
+    color: white;
+}
+
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: white;
+	border-width: 8px;
+	width: 5%;
+
+}
+
+.space_letter {
+    color: black;
+}
+
+
+/* .space {
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    color: white;
+}
+
+.space2 {
+    background-color: red;
+    width: 100%;
+    height: 30px;
+    color: white;
+} */
+
+#members-box {
+    margin: 0 auto 0 auto;
+    background-color: grey;
+    height: 30px;
+    width: 270px;
+}
+
+#first-elbum {
+    margin: 0 auto 0 auto;
+    background-color: grey;
+    height: 30px;
+    width: 370px;
+    color: white;
+}
+
+#second-elbum {
+    margin: 0 auto 0 auto;
+    background-color: grey;
+    height: 30px;
+    width: 350px;
+    color: white;
+}
+
+
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+h5 {
+    color: white;
+}
+h6 {
+    color: white;
+}
+
+ul {
+    color: white;
+    position: relative;
+    right: 10px;
+}
+
+.indentation {
+    /* margin: 0 auto 0 auto; */
+    color: white;
+    /* height: 50px; */
+    position: relative;
+    top: 20px;
+    left: 35px;
+}
+
